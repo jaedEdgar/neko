@@ -9,7 +9,7 @@ class AnimeItem(Item):
     
 class ContenidoItem(Item):
 	titulo = Field()
-	cont = Field()
-	imagen = Field()
-	capitulos = Field()
+	# cont = Field()
+	# imagen = Field()
+	# capitulos = Field()
 	link = Field()
